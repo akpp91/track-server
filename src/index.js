@@ -16,7 +16,7 @@ app.use(trackRoutes);
 
 
 
-const mangoUri ='mongodb+srv://akpp83:PrFdmpnpNkX9KJx5@cluster0.dy8rta8.mongodb.net/?retryWrites=true&w=majority'
+const mangoUri =''
 
 mongoose.connect(mangoUri)
 
